@@ -1,0 +1,4 @@
+'2023-02-01 21:25:52,307 - __main__ - INFO - Error! Invalid pin. Try again.'
+'2023-02-01 21:25:52,870 - __main__ - INFO - Error! Invalid pin. Try again.'
+'2023-02-01 21:25:53,199 - __main__ - INFO - Error! Invalid pin. Try again.'
+'2023-02-01 21:25:53,200 - root - WARNING - Too many attempts, card locked'
